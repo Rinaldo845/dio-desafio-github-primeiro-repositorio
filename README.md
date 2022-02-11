@@ -6,3 +6,6 @@ Repositório criado para Desafio de Projeto.
 
 [Documentação GitHub](https://docs.github.com/pt)
 
+[Livros de Programação Grátis}(https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-pt_BR.md)
+
+
