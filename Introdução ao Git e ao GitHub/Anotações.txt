@@ -1,2 +1,6 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+Não estava conseguindo subir o arquivo local para o remoto no GitHub.
+Tive que fazer o token pessoal pesquisando a documentação do GitHub.
+Adicionei o arquivo, comitei e dei push, mas as alterações não aparecem no remoto.
+Será porque?
